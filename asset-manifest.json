@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/indianlegalmatters/static/css/main.1d4829bb.chunk.css",
-    "main.js": "/indianlegalmatters/static/js/main.726e11f8.chunk.js",
-    "main.js.map": "/indianlegalmatters/static/js/main.726e11f8.chunk.js.map",
+    "main.css": "/indianlegalmatters/static/css/main.ab759296.chunk.css",
+    "main.js": "/indianlegalmatters/static/js/main.fe44a87c.chunk.js",
+    "main.js.map": "/indianlegalmatters/static/js/main.fe44a87c.chunk.js.map",
     "runtime-main.js": "/indianlegalmatters/static/js/runtime-main.248f2dd1.js",
     "runtime-main.js.map": "/indianlegalmatters/static/js/runtime-main.248f2dd1.js.map",
     "static/css/2.4b2e8363.chunk.css": "/indianlegalmatters/static/css/2.4b2e8363.chunk.css",
     "static/js/2.1a7d57c3.chunk.js": "/indianlegalmatters/static/js/2.1a7d57c3.chunk.js",
     "static/js/2.1a7d57c3.chunk.js.map": "/indianlegalmatters/static/js/2.1a7d57c3.chunk.js.map",
     "index.html": "/indianlegalmatters/index.html",
-    "precache-manifest.8e8976989ac19b4517974b0ceee71f5e.js": "/indianlegalmatters/precache-manifest.8e8976989ac19b4517974b0ceee71f5e.js",
+    "precache-manifest.8db5ccb19cb7c96dd6e60e022cb6bc47.js": "/indianlegalmatters/precache-manifest.8db5ccb19cb7c96dd6e60e022cb6bc47.js",
     "service-worker.js": "/indianlegalmatters/service-worker.js",
     "static/css/2.4b2e8363.chunk.css.map": "/indianlegalmatters/static/css/2.4b2e8363.chunk.css.map",
-    "static/css/main.1d4829bb.chunk.css.map": "/indianlegalmatters/static/css/main.1d4829bb.chunk.css.map",
+    "static/css/main.ab759296.chunk.css.map": "/indianlegalmatters/static/css/main.ab759296.chunk.css.map",
     "static/js/2.1a7d57c3.chunk.js.LICENSE.txt": "/indianlegalmatters/static/js/2.1a7d57c3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/indianlegalmatters/static/media/services.f46034fb.jpg",
     "static/media/indoglobal.png": "/indianlegalmatters/static/media/indoglobal.14a027df.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.248f2dd1.js",
     "static/css/2.4b2e8363.chunk.css",
     "static/js/2.1a7d57c3.chunk.js",
-    "static/css/main.1d4829bb.chunk.css",
-    "static/js/main.726e11f8.chunk.js"
+    "static/css/main.ab759296.chunk.css",
+    "static/js/main.fe44a87c.chunk.js"
   ]
 }

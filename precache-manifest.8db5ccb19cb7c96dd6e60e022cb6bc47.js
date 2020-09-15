@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d33476728b6177cbe7e0a6808af832a8",
+    "revision": "38f40b1798a9884c1c3e0e31f1a619df",
     "url": "/indianlegalmatters/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indianlegalmatters/static/css/2.4b2e8363.chunk.css"
   },
   {
-    "revision": "af2b83333c5065a8265d",
-    "url": "/indianlegalmatters/static/css/main.1d4829bb.chunk.css"
+    "revision": "a8b67d1d0f7fe27ba792",
+    "url": "/indianlegalmatters/static/css/main.ab759296.chunk.css"
   },
   {
     "revision": "5c58d271c7c43e614e64",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indianlegalmatters/static/js/2.1a7d57c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af2b83333c5065a8265d",
-    "url": "/indianlegalmatters/static/js/main.726e11f8.chunk.js"
+    "revision": "a8b67d1d0f7fe27ba792",
+    "url": "/indianlegalmatters/static/js/main.fe44a87c.chunk.js"
   },
   {
     "revision": "a2572173661ba03f005b",
     "url": "/indianlegalmatters/static/js/runtime-main.248f2dd1.js"
   },
   {
-    "revision": "e5790b9d2d87e17bf055d8ab32d16654",
-    "url": "/indianlegalmatters/static/media/Raleway-Light.e5790b9d.woff"
+    "revision": "e7ca3fd2a583f49a29f031b865ea089b",
+    "url": "/indianlegalmatters/static/media/Nobel Book.e7ca3fd2.woff"
   },
   {
     "revision": "01e08cdcbed86623f1b831b15f8f5987",
