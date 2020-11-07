@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/indianlegalmatters/static/css/main.ab759296.chunk.css",
-    "main.js": "/indianlegalmatters/static/js/main.fe44a87c.chunk.js",
-    "main.js.map": "/indianlegalmatters/static/js/main.fe44a87c.chunk.js.map",
+    "main.css": "/indianlegalmatters/static/css/main.49383001.chunk.css",
+    "main.js": "/indianlegalmatters/static/js/main.e7d6f2ba.chunk.js",
+    "main.js.map": "/indianlegalmatters/static/js/main.e7d6f2ba.chunk.js.map",
     "runtime-main.js": "/indianlegalmatters/static/js/runtime-main.248f2dd1.js",
     "runtime-main.js.map": "/indianlegalmatters/static/js/runtime-main.248f2dd1.js.map",
     "static/css/2.4b2e8363.chunk.css": "/indianlegalmatters/static/css/2.4b2e8363.chunk.css",
-    "static/js/2.1a7d57c3.chunk.js": "/indianlegalmatters/static/js/2.1a7d57c3.chunk.js",
-    "static/js/2.1a7d57c3.chunk.js.map": "/indianlegalmatters/static/js/2.1a7d57c3.chunk.js.map",
+    "static/js/2.dc808ba8.chunk.js": "/indianlegalmatters/static/js/2.dc808ba8.chunk.js",
+    "static/js/2.dc808ba8.chunk.js.map": "/indianlegalmatters/static/js/2.dc808ba8.chunk.js.map",
     "index.html": "/indianlegalmatters/index.html",
-    "precache-manifest.8db5ccb19cb7c96dd6e60e022cb6bc47.js": "/indianlegalmatters/precache-manifest.8db5ccb19cb7c96dd6e60e022cb6bc47.js",
+    "precache-manifest.c3a2759e08e5865799ca14b5bff4e7b1.js": "/indianlegalmatters/precache-manifest.c3a2759e08e5865799ca14b5bff4e7b1.js",
     "service-worker.js": "/indianlegalmatters/service-worker.js",
     "static/css/2.4b2e8363.chunk.css.map": "/indianlegalmatters/static/css/2.4b2e8363.chunk.css.map",
-    "static/css/main.ab759296.chunk.css.map": "/indianlegalmatters/static/css/main.ab759296.chunk.css.map",
-    "static/js/2.1a7d57c3.chunk.js.LICENSE.txt": "/indianlegalmatters/static/js/2.1a7d57c3.chunk.js.LICENSE.txt",
+    "static/css/main.49383001.chunk.css.map": "/indianlegalmatters/static/css/main.49383001.chunk.css.map",
+    "static/js/2.dc808ba8.chunk.js.LICENSE.txt": "/indianlegalmatters/static/js/2.dc808ba8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/indianlegalmatters/static/media/services.f46034fb.jpg",
     "static/media/indoglobal.png": "/indianlegalmatters/static/media/indoglobal.14a027df.png",
     "static/media/logo.png": "/indianlegalmatters/static/media/logo.ac48d270.png",
     "static/media/singh.png": "/indianlegalmatters/static/media/singh.3baa7a03.png",
     "static/media/slick-theme.css": "/indianlegalmatters/static/media/slick.f97e3bbf.svg",
-    "static/media/TeamCard.css": "/indianlegalmatters/static/media/suneet.b24b55f4.jpg"
+    "static/media/suneet.jpg": "/indianlegalmatters/static/media/suneet.a2c569b6.jpg",
+    "static/media/sushant.jpeg": "/indianlegalmatters/static/media/sushant.d1368b72.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.248f2dd1.js",
     "static/css/2.4b2e8363.chunk.css",
-    "static/js/2.1a7d57c3.chunk.js",
-    "static/css/main.ab759296.chunk.css",
-    "static/js/main.fe44a87c.chunk.js"
+    "static/js/2.dc808ba8.chunk.js",
+    "static/css/main.49383001.chunk.css",
+    "static/js/main.e7d6f2ba.chunk.js"
   ]
 }
