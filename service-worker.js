@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/indianlegalmatters/precache-manifest.099f0ad9996ed3acfa4353c29be6f636.js"
+  "/indianlegalmatters/precache-manifest.9694d4214e9e4b6ac15b025e0b3129c5.js"
 );
 
 self.addEventListener('message', (event) => {
